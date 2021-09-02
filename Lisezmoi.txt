@@ -1,0 +1,24 @@
+Chers(es) lecteurss !
+
+Notre production ( site Gestion des soutenances ) on a travaillé en local avec le serveur wampserver sous windows 10.
+
+Etapes de lancement:
+
+1.Copier le dossier Gesion_soutenance dans le dossier : C:\wamp\www
+2.Lancer le serveur Wampserver: 127.0.0.1/phpmyadmin
+3.importer la base de données nommée gest_soutenance.sql (fichier sql joint)
+4.Ensuite ouvrir votre navigateur en tapant dans la barre de navigation : 
+
+Utilisateurs: http://127.0.0.1/gesion_soutenance/Site/index.php 
+
+administrateur:http://127.0.0.1/gesion_soutenance/Site/admin/index.php
+
+Pour bien accerder à notre site veuillez lire le guide utlisateur (fichier pdf joint).
+
+
+
+****************************************************************************************
+****************************************************************************************
+
+
+MERCI !
